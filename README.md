@@ -1,4 +1,4 @@
-# 2023-2024_Veri_Gorsellestirme_Projesi
+# 2023-2024 Veri Gorsellestirme Projesi
 Bu çalışma 2023-2024 Güz Dönemi Veri Görselleştime dersi dönem sonu projesi kapsamında hazırlanmış olup;
 5 Ocak 2024 Günü Eskişehir Teknik Üniversitesi Fen Fakültesi Fuaye Alanında afiş biçiminde sunulmuştur.
 Çalışmanın veri kaynağı: yokatlas.yok.gov.tr olup;
